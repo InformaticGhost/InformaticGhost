@@ -1,8 +1,11 @@
 > [!NOTE]
 > Don't Touch My GitHub Repository >:]
 # 💫 About Me:
-Hi, i'm Diego and i am a Front-End Freelance Developer<br> 
-- [ ]FrontEnd Web Developer. <br> 
+Hi, i'm Diego and i am a Front-End Freelance Developer
+- [ ]FrontEnd Web Developer.
+- JavaScript
+- React
+- TailWindCSS
 - [ ]I'm passionate developer and i learn fast a new skills for the technologies
 
 
